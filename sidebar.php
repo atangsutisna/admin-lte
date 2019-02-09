@@ -14,7 +14,7 @@
         <li class="header">MAIN NAVIGATION</li>
         <!-- Optionally, you can add icons to the links -->
         <li>
-          <a href="#">
+          <a href="index.php">
             <i class="fa fa-dashboard"></i> <span>Dashboard</span>
           </a>
         </li>
